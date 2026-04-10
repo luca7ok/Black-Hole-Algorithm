@@ -1,0 +1,50 @@
+system specifications
+Linux 6.8.0-100-generic | x86_64 | 12 cores | Python 3.13.7
+
+experiment parameters
+results for dimension=10, max_iterations=1000, number_of_solutions=30, number_of_runs=30
+
+mean
+
+|  function  |     BH     |
+|------------|------------|
+|   sphere   |  0.00000   |
+| rosenbrock |  4.91773   |
+| rastrigin  |  20.62958  |
+|  schwefel  | 1907.98064 |
+|   ackley   |  1.78994   |
+|  griewank  |  0.43111   |
+
+max
+
+|  function  |     BH     |
+|------------|------------|
+|   sphere   |  0.00000   |
+| rosenbrock |  9.60594   |
+| rastrigin  |  31.83889  |
+|  schwefel  | 2220.04798 |
+|   ackley   |  2.81360   |
+|  griewank  |  1.19462   |
+
+min
+
+|  function  |     BH     |
+|------------|------------|
+|   sphere   |  0.00000   |
+| rosenbrock |  4.17523   |
+| rastrigin  |  4.97480   |
+|  schwefel  | 1581.10740 |
+|   ackley   |  0.00000   |
+|  griewank  |  0.03201   |
+
+std
+
+|  function  |    BH     |
+|------------|-----------|
+|   sphere   |  0.00000  |
+| rosenbrock |  1.21543  |
+| rastrigin  |  6.89890  |
+|  schwefel  | 148.66711 |
+|   ackley   |  0.66124  |
+|  griewank  |  0.30698  |
+
