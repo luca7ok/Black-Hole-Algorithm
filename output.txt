@@ -1,5 +1,5 @@
 system specifications
-Linux 6.8.0-100-generic | x86_64 | 12 cores | Python 3.13.7
+Linux 6.8.0-100-generic | 12th Gen Intel(R) Core(TM) i5-12400F | 12 cores | 15.5 GB RAM | Python 3.13.7
 
 experiment parameters
 params: max_iterations=500, population_size=30, number_of_runs=30
