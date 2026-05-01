@@ -4,7 +4,7 @@ Linux 6.8.0-100-generic | 12th Gen Intel(R) Core(TM) i5-12400F | 12 cores | 15.5
 experiment parameters
 params: max_iterations=500, population_size=30, number_of_runs=30
 
-| Dataset   | Criteria   |     k-means |         pso |       bb-bc |          bh |
+| dataset   | criteria   |     k-means |         pso |       bb-bc |          bh |
 |-----------|------------|-------------|-------------|-------------|-------------|
 | iris      | best       |    97.20457 |    96.54027 |    96.54360 |    96.55290 |
 |           | average    |   106.10320 |    97.37648 |    96.72054 |    96.58346 |
